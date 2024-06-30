@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://onfuselot.github.io/sitemap
+Sitemap: https://onfuselot.github.io/app/sitemap
+Sitemap: https://onfuselot.github.io/assets/sitemap
+Sitemap: https://onfuselot.github.io/css/sitemap
+Sitemap: https://onfuselot.github.io/includes/sitemap
+Sitemap: https://onfuselot.github.io/item/sitemap
+Sitemap: https://onfuselot.github.io/src/sitemap
